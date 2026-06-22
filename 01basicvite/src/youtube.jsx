@@ -1,5 +1,5 @@
 function App() {
-  return <h1>Hello World vite</h1>;
+  return <h1>Hello World YouTube</h1>;
 }
 
 export default App;
