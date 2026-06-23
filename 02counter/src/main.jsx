@@ -5,6 +5,7 @@ import App from "./App.jsx";
 import UseRef from "./useRef.jsx";
 import CallBack from "./callBack.jsx";
 import UseEffectDemo from "./useEffect.jsx";
+import Login from "./Login.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
@@ -12,5 +13,6 @@ createRoot(document.getElementById("root")).render(
     <UseRef />
     <CallBack />
     <UseEffectDemo />
+    <Login />
   </StrictMode>,
 );
