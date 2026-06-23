@@ -4,14 +4,14 @@ This project teaches React Context API step by step with explanations in separat
 
 ## 📚 Topics Covered
 
-1. **[What is Context API?](./docs/01-what-is-context-api.md)** - Introduction & why we need it
-2. **[createContext()](./docs/02-createContext.md)** - How to create a context
-3. **[Context.Provider](./docs/03-provider.md)** - How to provide data
-4. **[useContext()](./docs/04-useContext.md)** - How to use the data
-5. **[Complete Example](./docs/05-complete-example.md)** - Putting it all together
-6. **[Real World Examples](./docs/06-real-world-examples.md)** - Practical use cases
-7. **[Common Mistakes](./docs/07-common-mistakes.md)** - What to avoid
-8. **[Best Practices](./docs/08-best-practices.md)** - Do's and Don'ts
+1. **[What is Context API?](./01-what-is-context-api.md)** - Introduction & why we need it
+2. **[createContext()](./02-createContext.md)** - How to create a context
+3. **[Context.Provider](./03-provider.md)** - How to provide data
+4. **[useContext()](./04-useContext.md)** - How to use the data
+5. **[Complete Example](./05-complete-example.md)** - Putting it all together
+6. **[Real World Examples](./06-real-world-examples.md)** - Practical use cases
+7. **[Common Mistakes](./07-common-mistakes.md)** - What to avoid
+8. **[Best Practices](./08-best-practices.md)** - Do's and Don'ts
 
 ## 🚀 Quick Start
 
