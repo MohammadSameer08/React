@@ -4,11 +4,13 @@ import "./index.css";
 import App from "./App.jsx";
 import UseRef from "./useRef.jsx";
 import CallBack from "./callBack.jsx";
+import UseEffectDemo from "./useEffect.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <App />
     <UseRef />
     <CallBack />
+    <UseEffectDemo />
   </StrictMode>,
 );
